@@ -8,5 +8,5 @@ Tired of reading long E-Books use this script for converting any text file conta
 
     1-open powershell from folder where script is present or if you are linux use terminal same as powershell.
     2-Then in powershell or terminal type python filename.py
-    #before executing program make sure that you have "Tkinter" , "PyQt5" , "gtts" installed .
-    #Without above 3 librarys script not going to execute.
+    #before executing program make sure that you have "Tkinter" , "PyQt5" , "gtts" , "OS" installed .
+    #Without above 4 librarys script not going to execute.
